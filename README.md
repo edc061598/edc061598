@@ -5,8 +5,11 @@ I am a full stack software engineer with a passion for frontend and backend deve
 Technical skills include: 
 
 Frontend: HTML, CSS, TypeScript, React
+
 Backend: Node.js, Express
+
 Database: PostgreSQL
+
 API Development & Optimization
 
 
